@@ -1,0 +1,59 @@
+body{
+    background: black; 
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+ }
+.container{
+    width: 600px;
+    margin: auto;
+    margin-top: 50px;
+}
+.main{
+    background: white;
+    margin-top: 5px; 
+    border-radius: 5px;
+}
+.post_header{
+    height: 50px;
+    padding: 15px;    
+}
+.header-line{
+    float: left;
+}
+.fab{
+    font-size: 40px;
+    margin: 2px;
+    margin-right: 8px;
+}
+.name{
+    margin: 0%;
+}
+.settings{
+    font-size: 30px;
+    margin: 2px;
+    margin-right: 11px;
+    text-align: right;
+    }
+img{
+    width: 600px;
+    margin: auto,;
+}
+.post_header{
+    padding: 8px;}
+.icons{
+    font-size: 40px;
+}
+#far-right{
+    float: right;
+    margin-right: 20px;
+}
+.p1{
+    font-size: 23px;
+}
+.p2{
+    font-size: 20px;
+}
+.post_footer{
+    padding: 8px;
+}
